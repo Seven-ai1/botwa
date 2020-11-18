@@ -13,7 +13,7 @@ const tambahan = require("./lib/tambahan.js")
 
 const info = require("./lib/info.js");
 /////////////////
-const BotName = '⚔️UltimateBot⚔️'; 
+const BotName = 'UltimateBot'; 
 const instagram = 'https://instagram.com/eky_fikri_'; 
 const telegram = 'https://t.me/ekyfikri'; 
 const kapanbotaktif = 'KETIKA HANYA DIAKTIFKAN'; 
